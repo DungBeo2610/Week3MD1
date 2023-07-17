@@ -1,0 +1,244 @@
+{
+    "AutoSettings::enableAlertSound": false,
+    "AutoSettings::enableConfirmAlertBeforeClosing": true,
+    "AutoSettings::enableMinimizeToSystemTray": false,
+    "AutoSettings::enableShortcutKeys": true,
+    "AutoSettings::gameExePath": "",
+    "lastOpennedVersion": 116,
+    "locale": "vi",
+    "players": {
+        "1010001588": {
+            "actionWhenDead": 2,
+            "attackRadiusMap": -1,
+            "attackRadiusPoint.x()": -1,
+            "attackRadiusPoint.y()": -1,
+            "autoAlertHpPercent": 20,
+            "autoLevelupTo": 40,
+            "autoLogoutGameAfterDeadSeconds": 20,
+            "autoLotusBuffHpPercent": 70,
+            "autoLotusBuffPlayerList": {
+            },
+            "autoRecoverHp": true,
+            "autoRecoverHpPercent": 85,
+            "autoRecoverMp": true,
+            "autoRecoverMpPercent": 75,
+            "autoRecoverPetHp": true,
+            "autoRecoverPetHpPercent": 70,
+            "autoSkillList": [
+            ],
+            "autoSummonPetId": 33814358,
+            "autoThrowTrashItemList": [
+            ],
+            "autoUsePetRecoverHpSkill": false,
+            "autoUsePetRecoverHpSkillPercent": 60,
+            "autoUsePetRecoverMpSkill": false,
+            "autoUsePetRecoverMpSkillPercent": 50,
+            "enableAttackFollowLeader": true,
+            "enableAttackRadius": false,
+            "enableAuto": true,
+            "enableAutoAcceptSceneTransfer": true,
+            "enableAutoAcceptTeamRequest": true,
+            "enableAutoActionWhenDead": false,
+            "enableAutoAlertHp": true,
+            "enableAutoAttack": true,
+            "enableAutoKs": false,
+            "enableAutoLevelup": false,
+            "enableAutoLotusBuffHp": false,
+            "enableAutoPickupLootPackage": true,
+            "enableAutoResetOnlineTime": false,
+            "enableAutoSummonPet": false,
+            "enableAutoThrowTrashItem": true,
+            "enableAutoUseSkill": true,
+            "enableAutoUseX2dot5ExpItem": false,
+            "enableUseF1": false,
+            "enableUseSkillPet": false,
+            "ignoreMonsterList": [
+                "Niên Thú",
+                "Shishimai"
+            ],
+            "inventoryBagPassword": ""
+        },
+        "1010001604": {
+            "actionWhenDead": 2,
+            "attackRadiusMap": 213,
+            "attackRadiusPoint.x()": 62,
+            "attackRadiusPoint.y()": 193,
+            "autoAlertHpPercent": 20,
+            "autoLevelupTo": 60,
+            "autoLogoutGameAfterDeadSeconds": 20,
+            "autoLotusBuffHpPercent": 70,
+            "autoLotusBuffPlayerList": {
+            },
+            "autoRecoverHp": true,
+            "autoRecoverHpPercent": 85,
+            "autoRecoverMp": true,
+            "autoRecoverMpPercent": 70,
+            "autoRecoverPetHp": true,
+            "autoRecoverPetHpPercent": 30,
+            "autoSkillList": [
+                {
+                    "skill.packetId": 241,
+                    "skill.target": 1
+                },
+                {
+                    "skill.packetId": 246,
+                    "skill.target": 1
+                },
+                {
+                    "skill.packetId": 392,
+                    "skill.target": 1
+                },
+                {
+                    "skill.packetId": 422,
+                    "skill.target": 1
+                }
+            ],
+            "autoSummonPetId": 42335123,
+            "autoThrowTrashItemList": [
+            ],
+            "autoUsePetRecoverHpSkill": false,
+            "autoUsePetRecoverHpSkillPercent": 60,
+            "autoUsePetRecoverMpSkill": false,
+            "autoUsePetRecoverMpSkillPercent": 50,
+            "enableAttackFollowLeader": true,
+            "enableAttackRadius": false,
+            "enableAuto": true,
+            "enableAutoAcceptSceneTransfer": true,
+            "enableAutoAcceptTeamRequest": true,
+            "enableAutoActionWhenDead": true,
+            "enableAutoAlertHp": true,
+            "enableAutoAttack": true,
+            "enableAutoKs": false,
+            "enableAutoLevelup": true,
+            "enableAutoLotusBuffHp": true,
+            "enableAutoPickupLootPackage": true,
+            "enableAutoResetOnlineTime": false,
+            "enableAutoSummonPet": false,
+            "enableAutoThrowTrashItem": false,
+            "enableAutoUseSkill": true,
+            "enableAutoUseX2dot5ExpItem": true,
+            "enableUseF1": false,
+            "enableUseSkillPet": false,
+            "ignoreMonsterList": [
+                "Niên Thú",
+                "Shishimai"
+            ],
+            "inventoryBagPassword": ""
+        },
+        "1010001633": {
+            "actionWhenDead": 2,
+            "attackRadiusMap": -1,
+            "attackRadiusPoint.x()": -1,
+            "attackRadiusPoint.y()": -1,
+            "autoAlertHpPercent": 20,
+            "autoLevelupTo": 40,
+            "autoLogoutGameAfterDeadSeconds": 20,
+            "autoLotusBuffHpPercent": 70,
+            "autoLotusBuffPlayerList": {
+            },
+            "autoRecoverHp": true,
+            "autoRecoverHpPercent": 85,
+            "autoRecoverMp": true,
+            "autoRecoverMpPercent": 75,
+            "autoRecoverPetHp": true,
+            "autoRecoverPetHpPercent": 70,
+            "autoSkillList": [
+            ],
+            "autoSummonPetId": 5696834,
+            "autoThrowTrashItemList": [
+            ],
+            "autoUsePetRecoverHpSkill": false,
+            "autoUsePetRecoverHpSkillPercent": 60,
+            "autoUsePetRecoverMpSkill": false,
+            "autoUsePetRecoverMpSkillPercent": 50,
+            "enableAttackFollowLeader": true,
+            "enableAttackRadius": false,
+            "enableAuto": true,
+            "enableAutoAcceptSceneTransfer": false,
+            "enableAutoAcceptTeamRequest": false,
+            "enableAutoActionWhenDead": false,
+            "enableAutoAlertHp": true,
+            "enableAutoAttack": true,
+            "enableAutoKs": false,
+            "enableAutoLevelup": false,
+            "enableAutoLotusBuffHp": false,
+            "enableAutoPickupLootPackage": true,
+            "enableAutoResetOnlineTime": false,
+            "enableAutoSummonPet": false,
+            "enableAutoThrowTrashItem": true,
+            "enableAutoUseSkill": true,
+            "enableAutoUseX2dot5ExpItem": false,
+            "enableUseF1": false,
+            "enableUseSkillPet": false,
+            "ignoreMonsterList": [
+                "Niên Thú",
+                "Shishimai"
+            ],
+            "inventoryBagPassword": ""
+        },
+        "1010001665": {
+            "actionWhenDead": 2,
+            "attackRadiusMap": 8,
+            "attackRadiusPoint.x()": 277,
+            "attackRadiusPoint.y()": 177,
+            "autoAlertHpPercent": 20,
+            "autoLevelupTo": 45,
+            "autoLogoutGameAfterDeadSeconds": 20,
+            "autoLotusBuffHpPercent": 70,
+            "autoLotusBuffPlayerList": {
+            },
+            "autoRecoverHp": true,
+            "autoRecoverHpPercent": 60,
+            "autoRecoverMp": true,
+            "autoRecoverMpPercent": 50,
+            "autoRecoverPetHp": true,
+            "autoRecoverPetHpPercent": 30,
+            "autoSkillList": [
+                {
+                    "skill.packetId": 241,
+                    "skill.target": 1
+                },
+                {
+                    "skill.packetId": 246,
+                    "skill.target": 1
+                },
+                {
+                    "skill.packetId": 392,
+                    "skill.target": 1
+                }
+            ],
+            "autoSummonPetId": 9086787,
+            "autoThrowTrashItemList": [
+            ],
+            "autoUsePetRecoverHpSkill": false,
+            "autoUsePetRecoverHpSkillPercent": 60,
+            "autoUsePetRecoverMpSkill": false,
+            "autoUsePetRecoverMpSkillPercent": 50,
+            "enableAttackFollowLeader": false,
+            "enableAttackRadius": false,
+            "enableAuto": true,
+            "enableAutoAcceptSceneTransfer": true,
+            "enableAutoAcceptTeamRequest": true,
+            "enableAutoActionWhenDead": true,
+            "enableAutoAlertHp": true,
+            "enableAutoAttack": true,
+            "enableAutoKs": false,
+            "enableAutoLevelup": true,
+            "enableAutoLotusBuffHp": false,
+            "enableAutoPickupLootPackage": false,
+            "enableAutoResetOnlineTime": false,
+            "enableAutoSummonPet": true,
+            "enableAutoThrowTrashItem": false,
+            "enableAutoUseSkill": true,
+            "enableAutoUseX2dot5ExpItem": true,
+            "enableUseF1": true,
+            "enableUseSkillPet": false,
+            "ignoreMonsterList": [
+                "Niên Thú",
+                "Shishimai"
+            ],
+            "inventoryBagPassword": ""
+        }
+    },
+    "theme": "dark"
+}
