@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bảng Cửu Chương</title>
+</head>
+<body>
+<script>
+  document.write("<div>")
+          document.write("<h1>Bảng Cửu Chương</h1>");
+  for (let i=1; i<10;i++) {
+    document.write("<div>");
+    document.write("<h3>",i,"</h3> ")
+    for (let j = 1; j<10; j++) {
+      document.writeln(i," x ", j, " = ", i * j, "<br>");
+    }
+    document.write("/<div>")
+  }
+  document.write("</div>")
+</script>
+
+</body>
+</html>
