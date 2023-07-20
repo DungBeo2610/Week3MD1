@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chuyển đổi nhiệt độ </title>
+</head>
+<body>
+<p>
+  <label>Độ F</label>
+  <label for="inputĐộF"></label><input id="inputĐộF" type="number" placeholder="ĐộF"
+                                       oninput="temperatureConverter(this.value)"
+                                       onchange="temperatureConverter(this.value)">
+</p>
+<p>Độ C: <span id="outputCelsius"></span></p>
+<script src="CF.js"></script>
+</body>
+</html>
