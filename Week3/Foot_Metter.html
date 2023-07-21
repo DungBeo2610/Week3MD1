@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chuyển đổi độ dài </title>
+</head>
+<body>
+<script>
+  function FeetToMeter(feet){
+    let meter = 0.305 * feet;
+    return meter;
+  }
+  function MeterToFeet(meter){
+    let feet = 3.279 * meter;
+    return feet
+  }
+  let feet = prompt("Nhập Số Feet");
+  document.write(feet + "feet" + " = " + FeetToMeter(feet) + " meter ");
+  document.write("<br>")
+  let meter = prompt("Nhập Số Meter");
+  document.write(meter + "meter" + " = " + MeterToFeet(meter) + "meter");
+</script>
+</body>
+</html>
